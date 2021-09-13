@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+@media (max-width:600px){
+	.menu {
+		font-size:13px; !important
+		float: right;
+		padding-right: 20px
+	}
+}
+@media (max-width:600px){
+	.minimenu {
+		margin: 0 auto;
+		margin-top: 19px
+	}
+}
+@media (max-width:600px){
+	.hinhnen1{
+		height: 650px;
+	}
+}
+@media (max-width:600px){
+	.hinhnen2{
+		height: 600px;
+	}
+}
+@media (max-width: 600px){
+	.heading h1{
+	font-size: 50px;
+	}
+}
+@media (max-width: 600px){
+	.heading p{
+	font-size: 12px;
+	}
+}
+@media (max-width:600px){
+	.body1{
+		height: 600px;
+	}
+}
+@media (max-width:600px){
+	.body1 p{
+		font-size: 12px;
+	}
+}
+@media (max-width:600px){
+	.body1 h1{
+		font-size: 35px;
+	}
+}
+@media (max-width:600px){
+	.body2{
+		height: 300px;
+	}
+}
+@media (max-width:600px){
+	.card1 {
+		margin-right: 30px;
+	}
+}
+@media (max-width:600px){
+	.card1 h5{
+		font-size: 15px;
+	}
+}
+@media (max-width:600px){
+	.card1 p{
+		font-size: 8px;
+	}
+}
+@media (max-width:600px){
+	.card2 h5{
+		font-size: 15px;
+	}
+}
+@media (max-width:600px){
+	.card2 p{
+		font-size: 8px;
+	}
+}
+@media (max-width:600px){
+	.card2 {
+		margin-right: 20px;
+	}
+}
+@media (max-width:600px){
+	.body3 h1{
+		font-size: 35px;
+	}
+}
+@media (max-width:600px){
+	.body3 p{
+		font-size: 12px;
+	}
+}
+@media (max-width:600px){
+	.body3{
+		height: 1290px;
+	}
+}
+@media (max-width:600px){
+	.textbody3 h4{
+		font-size: 15px;
+		padding-top: -20px;
+	}
+}
+@media (max-width:600px){
+	.textbody3 p{
+		font-size: 10px;
+	}
+}
+@media (max-width:600px){
+	.visit{
+		height: 480px
+	}	
+}
+@media (max-width:600px){
+	.map{
+		display: none;
+	}
+}
+@media (max-width:600px){
+	.diachi{
+		margin-top: 20px;
+		margin-left: -10px
+	}
+}
+@media (max-width:600px){
+	.visit h1 {
+		font-size:40px;
+	}
+}
+@media (max-width:600px){
+	.visit h4 {
+		font-size:20px;
+		padding-bottom: 15px;
+	}
+}
+@media (max-width:600px){
+	.button3 {
+		margin-top: -40px;
+	}
+}

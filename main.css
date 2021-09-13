@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding: 0;
+}
+
+h1,h2, h4, p {
+	font-family: Palatino Linotype 
+}
+
+.hinhnen1{
+	height: 980px;
+	background-image: url("header.jpg");
+	background-position: center;
+}
+
+.hinhnen2{
+	height: 900px;
+	background-image: url("header.jpg");
+	background-position: center;
+	color: rgb(238, 238, 238);
+}
+
+.menu{
+	font-size: 20px; !important
+}
+.heading{
+	color: rgb(238, 238, 238);
+	padding-top: 9%;
+}
+.heading h1{
+	font-size: 100px; 
+}
+
+.heading p {
+	font-size: 20px;
+}
+
+.button1{
+	padding-top: 6%;
+}
+.body1{
+	height: 1580px;
+	background: rgb(37, 37, 37);
+	padding-top: 4%;
+}
+
+.body1 p{
+	color: rgba(138,138,138,1.00);
+	font-size: 18px;
+}
+
+.body1 h1{
+	color: #E0A800;
+	font-size: 80px;
+}
+
+.body2{
+	height: 200px;
+	background: rgb(65, 65, 65);
+	margin: 0 auto;
+}
+.body2 h2{
+	color:#E0A800;
+	font-size: 30px;
+}
+.body3{
+	height: 1050px;
+	background: rgb(37, 37, 37);
+}
+.body3 p{
+	color: rgba(138,138,138,1.00);
+	font-size: 18px;
+}
+.body3 h1{
+	color: #E0A800;
+	font-size: 80px;
+}
+.hinh1{
+	margin-left: 8%;
+}
+.hinh4{
+	padding-bottom: 50px;
+}
+.textbody1 {
+	color: #E0A800;
+}
+.textbody3 {
+	color:rgba(138,138,138,1.00);
+}
+.visit{
+	height: 520px;
+	background: rgb(37, 37, 37);
+	margin-top: 9%
+}
+.visit h1, h4{
+	color: #E0A800;
+	font-size: 60px;
+}
+.diachi{
+	margin-top: 30px
+}
+.footer{
+	margin-top: 9%;
+}
+.map{
+	margin-left: 37px;
+}
